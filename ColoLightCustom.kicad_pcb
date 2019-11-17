@@ -10,6 +10,14 @@
   )
 
   (page A4)
+  (title_block
+    (title "ColoLight Custom Controller")
+    (date 2019-11-17)
+    (rev 0.1)
+    (company haus-automatisierung.com)
+    (comment 1 "Matthias Kleine")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
