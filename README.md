@@ -4,6 +4,13 @@
 
 ![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-cololight-custom/master/preview.png)
 
+**Thickness of original PCB is 1mm**
+
+## Components
+
+- 2.00mm Header Pins (1x5) - 2x
+- 2.54mm Header Pins (1x3) - optional for testing
+
 ## License
 
 The MIT License (MIT)
