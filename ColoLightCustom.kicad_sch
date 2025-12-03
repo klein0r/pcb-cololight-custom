@@ -1537,7 +1537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "halibs:SolderPads3"
+		(property "Footprint" "haus-automatisierung:SolderPads3"
 			(at 186.69 93.98 0)
 			(effects
 				(font
